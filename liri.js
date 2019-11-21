@@ -18,13 +18,13 @@ function UserInputs (userChoice, choiceParameter)
 {
     switch (userChoice) 
     {
-        case 'concert-this':
+        case "concert":
             showConcertInfo(choiceParameter);
             break;
-        case 'spotify-this-song':
+        case "spotify-my-song":
             showSongInfo(choiceParameter);
             break;
-        case 'movie-this':
+        case "movie":
             showMovieInfo(choiceParameter);
             break;
         case 'do-what-it-says':
@@ -33,9 +33,9 @@ function UserInputs (userChoice, choiceParameter)
         default: 
         console.log(`Invalid choice!!! 
             Please type one of the following choices: 
-            concert-this 
-            spotify-this-song 
-            movie-this 
+            concert 
+            spotify-my-song 
+            movie 
             do-what-it-says`);
     };
 };
@@ -73,7 +73,7 @@ function showConcertInfo(choiceParameter)
     });
 }
 
-//Spotify block of code.
+//function for spotify.
 function showSongInfo(choiceParameter) 
 {
     if (choiceParameter === undefined) 
