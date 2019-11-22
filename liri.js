@@ -34,7 +34,7 @@ function UserInputs (userChoice, choiceParameter)
         console.log(`Invalid choice!!! 
             Please type one of the following choices: 
             concert 
-        this 
+            spotify-this-song
             movie 
             do-what-it-says`);
     };
