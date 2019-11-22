@@ -21,7 +21,7 @@ function UserInputs (userChoice, choiceParameter)
         case "concert":
             showConcertInfo(choiceParameter);
             break;
-        case "spotify-my-song":
+        case "spotify-this-song":
             showSongInfo(choiceParameter);
             break;
         case "movie":
@@ -34,7 +34,7 @@ function UserInputs (userChoice, choiceParameter)
         console.log(`Invalid choice!!! 
             Please type one of the following choices: 
             concert 
-            spotify-my-song 
+        this 
             movie 
             do-what-it-says`);
     };
@@ -110,3 +110,75 @@ function showSongInfo(choiceParameter)
     });
 };
 
+//Funtion for Movie Info: OMDB
+function showMovieInfo(choiceParameter)
+{
+    if (choiceParameter === undefined) 
+    {
+        choiceParameter = "Mr. Nobody"
+        console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
+        fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n");
+        console.log("It's on Netflix!");
+        fs.appendFileSync("log.txt", "It's on Netflix!\n");
+    }
+
+    let queryUrl = "http://www.omdbapi.com/?t=" + choiceParameter + "&y=&plot=short&apikey=b3c0b435";
+    request(queryUrl, function(error, response, body) 
+    
+    {
+        if (!error && response.statusCode === 200) 
+        {
+            let movies = JSON.parse(body);
+            console.log(" ");
+            console.log("Title: " + movies.Title);
+            fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
+            console.log("Release Year: " + movies.Year);
+            fs.appendFileSync("log.txt", "Release Year: " + movies.Year + "\n");
+            console.log("IMDB Rating: " + movies.imdbRating);
+            fs.appendFileSync("log.txt", "IMDB Rating: " + movies.imdbRating + "\n");
+            console.log("Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies));
+            fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies) + "\n");
+            console.log("Country of Production: " + movies.Country);
+            fs.appendFileSync("log.txt", "Country of Production: " + movies.Country + "\n");
+            console.log("Language: " + movies.Language);
+            fs.appendFileSync("log.txt", "Language: " + movies.Language + "\n");
+            console.log("Plot: " + movies.Plot);
+            fs.appendFileSync("log.txt", "Plot: " + movies.Plot + "\n");
+            console.log("Actors: " + movies.Actors);
+            fs.appendFileSync("log.txt", "Actors: " + movies.Actors + "\n");
+        } 
+        else
+        {
+            console.log('Error occurred.');
+        }
+
+    });
+}
+
+//Rotten Tomatoes Rating function
+function getRottenTomatoesRatingObject (data) 
+{
+    return data.Ratings.find(function (item) 
+    {
+       return item.Source === "Rotten Tomatoes";
+    });
+}
+  
+function getRottenTomatoesRatingValue (data) 
+{
+    return getRottenTomatoesRatingObject(data).Value;
+}
+
+//Reading random.txt file function 
+function showSomeInfo()
+{
+    fs.readFile('random.txt', 'utf8', function(err, data)
+    {
+        if (err)
+        { 
+			return console.log(err);
+		}
+        let dataArr = data.split(',');
+        UserInputs(dataArr[0], dataArr[1]);
+	});
+}

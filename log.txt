@@ -1,1 +1,528 @@
 
+Title: Star Wars: Episode IV - A New Hope
+Release Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country of Production: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+**********EVENT INFO*********
+0
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-11-27T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-30T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: ＩＭＡＧＥ
+Venue Location: 岡山市
+Date of the Event: 2019-12-08T18:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-11-27T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-30T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: ＩＭＡＧＥ
+Venue Location: 岡山市
+Date of the Event: 2019-12-08T18:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-11-27T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-30T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: ＩＭＡＧＥ
+Venue Location: 岡山市
+Date of the Event: 2019-12-08T18:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The Barn
+Venue Location: Austin
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-22T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-23T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-11-24T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-11-27T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Oakland Arena
+Venue Location: Oakland
+Date of the Event: 2019-11-30T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Save Mart Center
+Venue Location: Fresno
+Date of the Event: 2019-12-05T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-07T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: ＩＭＡＧＥ
+Venue Location: 岡山市
+Date of the Event: 2019-12-08T18:00:00
+*****************************
+0
+song name: Highway to Hell
+preview song: https://p.scdn.co/mp3-preview/aa4f9186e0c3f4436bb40572a63862db80d7ef2d?cid=d2eaf53b988b423885f05a3b054fce49
+album: Highway to Hell
+artist(s): AC/DC
+1
+song name: Life is a Highway
+preview song: null
+album: Me And My Gang
+artist(s): Rascal Flatts
+2
+song name: Ventura Highway
+preview song: https://p.scdn.co/mp3-preview/1dbcc6d5eef4864f7a50d59128099455d4c21e2e?cid=d2eaf53b988b423885f05a3b054fce49
+album: Homecoming
+artist(s): America
+3
+song name: Highway Tune
+preview song: null
+album: From The Fires
+artist(s): Greta Van Fleet
+4
+song name: Highway Don't Care
+preview song: null
+album: Two Lanes Of Freedom
+artist(s): Tim McGraw
+5
+song name: Highway Star
+preview song: https://p.scdn.co/mp3-preview/b657344c73b65816e6046fd93ce7c8eccc09f005?cid=d2eaf53b988b423885f05a3b054fce49
+album: Machine Head
+artist(s): Deep Purple
+6
+song name: Honky Tonk Highway
+preview song: https://p.scdn.co/mp3-preview/23a953f3c0f5d7cdf2a26835144717a72d3a8b8d?cid=d2eaf53b988b423885f05a3b054fce49
+album: This One's for You Too (Deluxe Edition)
+artist(s): Luke Combs
+7
+song name: I Am the Highway
+preview song: https://p.scdn.co/mp3-preview/eb5a71933e12afb5e357f3d2f22db28d780f08cf?cid=d2eaf53b988b423885f05a3b054fce49
+album: Audioslave
+artist(s): Audioslave
+8
+song name: Like a Rolling Stone
+preview song: https://p.scdn.co/mp3-preview/f0eec1a1dbd31bf51cf323d2981535ec4fc5a568?cid=d2eaf53b988b423885f05a3b054fce49
+album: Highway 61 Revisited
+artist(s): Bob Dylan
+9
+song name: Highway
+preview song: https://p.scdn.co/mp3-preview/96e3fab0a7e5b359e76a178199f9e55d9cd23395?cid=d2eaf53b988b423885f05a3b054fce49
+album: Highway
+artist(s): Cheat Codes
+10
+song name: Life Is A Highway
+preview song: null
+album: Mad Mad World
+artist(s): Tom Cochrane
+11
+song name: Highway 20 Ride
+preview song: https://p.scdn.co/mp3-preview/0f4a26377eb99afdd4c995887ec08634041e5dc3?cid=d2eaf53b988b423885f05a3b054fce49
+album: The Foundation
+artist(s): Zac Brown Band
+12
+song name: Highway to Heaven - English Version
+preview song: null
+album: Highway to Heaven (English Version)
+artist(s): NCT 127
+13
+song name: Highway to Heaven
+preview song: null
+album: NCT #127 WE ARE SUPERHUMAN - The 4th Mini Album
+artist(s): NCT 127
+14
+song name: Mr. Highway's Thinking About the End
+preview song: https://p.scdn.co/mp3-preview/61ef1301d0f380a3f4274f1bf9ce5f1e11525fe3?cid=d2eaf53b988b423885f05a3b054fce49
+album: Homesick
+artist(s): A Day To Remember
+15
+song name: DIstant Highway
+preview song: https://p.scdn.co/mp3-preview/dfff01ca94e8a4f9359b0c92fa430e601b306baf?cid=d2eaf53b988b423885f05a3b054fce49
+album: Life Noise
+artist(s): Fabricants
+16
+song name: Alabama
+preview song: https://p.scdn.co/mp3-preview/a76a787b29070af60b6c82b0f753ea9bb555b9f2?cid=d2eaf53b988b423885f05a3b054fce49
+album: Highway 377
+artist(s): Cross Canadian Ragweed
+17
+song name: Highway
+preview song: https://p.scdn.co/mp3-preview/3b18e4dc4894e5038d230d98d1725bfb8f144eea?cid=d2eaf53b988b423885f05a3b054fce49
+album: Erase You
+artist(s): Bleeker
+18
+song name: Life is a Highway - From "Cars"
+preview song: null
+album: Disney/Pixar Greatest
+artist(s): Rascal Flatts
+19
+song name: Highway Song
+preview song: https://p.scdn.co/mp3-preview/770dc28116e9e1146e0c5b1a28bdeb4590b741a7?cid=d2eaf53b988b423885f05a3b054fce49
+album: Strikes
+artist(s): Blackfoot
+0
+song name: Make No Sense
+preview song: https://p.scdn.co/mp3-preview/08d9caca72ff509890aaba00e419428c4cd0cb81?cid=d2eaf53b988b423885f05a3b054fce49
+album: AI YoungBoy 2
+artist(s): YoungBoy Never Broke Again
+1
+song name: Make It Right (feat. Lauv)
+preview song: https://p.scdn.co/mp3-preview/fd5b0ad0cbe5fb2bc20db19b89679699f9312715?cid=d2eaf53b988b423885f05a3b054fce49
+album: Make It Right (feat. Lauv)
+artist(s): BTS
+2
+song name: Make You Mine
+preview song: null
+album: Make You Mine
+artist(s): PUBLIC
+3
+song name: Make Believe
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+4
+song name: You Make My Dreams
+preview song: https://p.scdn.co/mp3-preview/771d17fd95b403d1cedf9337822038f31847dcf6?cid=d2eaf53b988b423885f05a3b054fce49
+album: Voices
+artist(s): Daryl Hall & John Oates
+5
+song name: You Make It Easy
+preview song: https://p.scdn.co/mp3-preview/d67c5f6071e4ee833392128032272a53e7651f4a?cid=d2eaf53b988b423885f05a3b054fce49
+album: You Make It Easy
+artist(s): Jason Aldean
+6
+song name: You Make It Easy
+preview song: https://p.scdn.co/mp3-preview/d67c5f6071e4ee833392128032272a53e7651f4a?cid=d2eaf53b988b423885f05a3b054fce49
+album: Rearview Town
+artist(s): Jason Aldean
+7
+song name: Make Me Want To
+preview song: https://p.scdn.co/mp3-preview/094dc97e755448c6e92c23dddbec6970d0868990?cid=d2eaf53b988b423885f05a3b054fce49
+album: Mercury Lane
+artist(s): Jimmie Allen
+8
+song name: Do I Make You Wanna
+preview song: null
+album: Summer Forever
+artist(s): Billy Currington
+9
+song name: Make You Feel My Love
+preview song: https://p.scdn.co/mp3-preview/7a165b92d60630afcb5a8fecf97f6dd379c2f6f1?cid=d2eaf53b988b423885f05a3b054fce49
+album: 19
+artist(s): Adele
+10
+song name: Make It Right
+preview song: https://p.scdn.co/mp3-preview/27d07e11fef56c0f8cb8a7e77a445e7371971ea5?cid=d2eaf53b988b423885f05a3b054fce49
+album: MAP OF THE SOUL : PERSONA
+artist(s): BTS
+11
+song name: make up
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+12
+song name: Make You Miss Me
+preview song: null
+album: Montevallo
+artist(s): Sam Hunt
+13
+song name: The Ones That Didn’t Make It Back Home
+preview song: null
+album: Late Nights And Longnecks
+artist(s): Justin Moore
+14
+song name: Make It Right (feat. Lauv) [Acoustic Remix]
+preview song: https://p.scdn.co/mp3-preview/0080019550491cf8ec625915a79b9ed498df03b0?cid=d2eaf53b988b423885f05a3b054fce49
+album: Make It Right (feat. Lauv) [Acoustic Remix]
+artist(s): BTS
+15
+song name: Make It Sweet
+preview song: https://p.scdn.co/mp3-preview/4348b7b358ef9fdeda197d019e71da64223c466c?cid=d2eaf53b988b423885f05a3b054fce49
+album: Old Dominion
+artist(s): Old Dominion
+16
+song name: Wake Me up Before You Go-Go
+preview song: https://p.scdn.co/mp3-preview/d1c143357d86d1736806ed7404b71a44feb8451d?cid=d2eaf53b988b423885f05a3b054fce49
+album: Make It Big
+artist(s): Wham!
+17
+song name: Make Me Proud
+preview song: null
+album: Take Care (Deluxe)
+artist(s): Drake
+18
+song name: Drive
+preview song: https://p.scdn.co/mp3-preview/529519c74312d9a940114264e608f8cbf779628a?cid=d2eaf53b988b423885f05a3b054fce49
+album: Make Yourself
+artist(s): Incubus
+19
+song name: Kiss and Make Up
+preview song: https://p.scdn.co/mp3-preview/7328fdaa04a8b5cada8b8e95a3dfe59913f9183c?cid=d2eaf53b988b423885f05a3b054fce49
+album: Dua Lipa (Complete Edition)
+artist(s): Dua Lipa
+Title: Terminator
+Release Year: 1991
+IMDB Rating: 6.0
+Title: Avatar
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 82%
+Country of Production: USA
+Language: English, Spanish
+Plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d2eaf53b988b423885f05a3b054fce49
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d2eaf53b988b423885f05a3b054fce49
+album: Millennium
+artist(s): Backstreet Boys
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d2eaf53b988b423885f05a3b054fce49
+album: I Want It That Way
+artist(s): Mick Jensen
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d2eaf53b988b423885f05a3b054fce49
+album: Covers Part IV
+artist(s): Anthem Lights
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d2eaf53b988b423885f05a3b054fce49
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d2eaf53b988b423885f05a3b054fce49
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+6
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d2eaf53b988b423885f05a3b054fce49
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d2eaf53b988b423885f05a3b054fce49
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d2eaf53b988b423885f05a3b054fce49
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d2eaf53b988b423885f05a3b054fce49
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d2eaf53b988b423885f05a3b054fce49
+album: Nu Funk
+artist(s): Scary Pockets
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d2eaf53b988b423885f05a3b054fce49
+album: Musicbox
+artist(s): Nineties Legends
+14
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d2eaf53b988b423885f05a3b054fce49
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d2eaf53b988b423885f05a3b054fce49
+album: NKOTBSB
+artist(s): Backstreet Boys
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d2eaf53b988b423885f05a3b054fce49
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=d2eaf53b988b423885f05a3b054fce49
+album: I Want It That Way
+artist(s): Yshop
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d2eaf53b988b423885f05a3b054fce49
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
