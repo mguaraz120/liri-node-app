@@ -1,5 +1,6 @@
 #ABOUT THE APP
-LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
+
+    LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
 * concert
 
@@ -15,13 +16,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 2. Navigate to the folder that contains the liri.js file.
 
-3. call the file and the one of the four commands.
+3. call the file and one of the four commands.
 
 ### Concert command:
 
     node liri.js concert <type your artist or band>
 
-    The app will display a list of all events and locations where the artist or band will perform. The results will also get transfer in the log.txt file. See screen-shot below:
+    The app will display a list of all events and locations where the artist or band will perform. The results will also get transfer in the log.txt file. See below:
 
 <img src="images/concert.PNG">
 
@@ -29,7 +30,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
     node liri.js spotify-this-song <type your song>
 
-    The app will display a list of information associated with the song. The app will also log all the results in the log.txt file. See screen-shot below:
+    The app will display a list of information associated with the song. The app will also log all the results in the log.txt file. See below:
 
 <img src="images/spotify.PNG">
 
@@ -37,7 +38,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
     node liri.js movie <type your movie>
 
-    The app will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
+    The app will display information associated with the movie. The system will also log all the results in the log.txt file. See below:
 
 <img src="images/movie.PNG">
 
